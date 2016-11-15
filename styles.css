@@ -1,0 +1,28 @@
+div.text-box {
+
+  width: 300px;
+  background: url(http://tinyurl.com/js7fv3k);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: #000;
+  padding: 15px;
+  display: inline-block;
+  margin: 0;
+  text-align: left;
+
+}
+
+
+div.text-box p {
+
+  margin: 0;
+
+}
+
+body {
+  padding: 0px;
+  border: 0px;
+  margin: 0px;
+
+}
